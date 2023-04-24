@@ -1,4 +1,6 @@
 Linia1
+Poprawka hotfix
 Linia2
 Linia3
 Funkcjonalonsc w branchu feature
+Zakonczenie fuknkcjonalnosci fetaure
